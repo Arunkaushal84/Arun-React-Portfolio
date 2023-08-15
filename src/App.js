@@ -3,7 +3,7 @@ import React from "react";
 
 // import PortfolioContainer from "./Components/PortfolioContainer";
 
-import Header from './Components/Pages/Header';
+import Header from '.src/Components/Pages/Header';
 // const App = () => <PortfolioContainer />;
 const App = () => <Header />;
 
